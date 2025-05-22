@@ -1,1 +1,1 @@
-goit-js-hw5
+goit-js-hw6
